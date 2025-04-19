@@ -10,8 +10,7 @@ html
 </head>
 <body>
     <h1>Welcome to the DOM Manipulation Example</h1>
-    
-    <div id="content">
+     <div id="content">
         <p id="para">This is a sample paragraph.</p>
         <button id="changeTextBtn">Change Text</button>
         <button id="styleTextBtn">Change Text Style</button>
